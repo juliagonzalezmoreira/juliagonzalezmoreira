@@ -1,16 +1,19 @@
-### Hi there 👋
+## 💜 Olá, meu nome é <strong>Julia!</strong>
 
-<!--
-**juliagonzalezmoreira/juliagonzalezmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> Sobre mim </h3>
 
-Here are some ideas to get you started:
+- Explorando novas tecnologias e desenvolvendo soluções de software.
+- Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fatecsjc-prd.azurewebsites.net/">Fatec SJC</a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/juliagonzalezmoreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliagonzalezmoreira&theme=buefy&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Julia Gonzalez Moreira](https://img.shields.io/badge/-Julia_Gonzalez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julia-gonzalez-moreira/)](https://www.linkedin.com/in/julia-gonzalez-moreira)
+[![Gmail Badge](https://img.shields.io/badge/juliagonzalezmoreira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliagonzalezmoreira@gmail.com)](mailto:juliagonzalezmoreira@gmail.com)
+[![GitHub Julia Gonzalez]( https://img.shields.io/github/followers/juliagonzalezmoreira?label=follow&style=social)](https://github.com/juliagonzalezmoreira)
