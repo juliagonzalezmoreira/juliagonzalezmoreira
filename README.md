@@ -15,5 +15,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
  <a href="https://www.linkedin.com/in/julia-gonzalez-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:juliagonzalezmoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:juliagonzalezmoreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![GitHub Julia Gonzalez]( https://img.shields.io/github/followers/juliagonzalezmoreira?label=follow&style=social)](https://github.com/juliagonzalezmoreira)
