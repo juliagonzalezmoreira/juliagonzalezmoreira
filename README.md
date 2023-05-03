@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliagonzalezmoreira&theme=buefy&show_icons=true" />
 </a>
 <br>
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/juliagonzalezmoreira">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliagonzalezmoreira&theme=buefy&hide_langs_below=1" />
 </a>
 
