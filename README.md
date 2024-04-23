@@ -6,7 +6,6 @@
 - Explorando novas tecnologias e desenvolvendo soluções de software.
 - Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fatecsjc-prd.azurewebsites.net/">Fatec SJC</a>.
   
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
   <img src="https://github-readme-stats.vercel.app/api?username=juliagonzalezmoreira&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliagonzalezmoreira&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
