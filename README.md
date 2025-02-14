@@ -10,7 +10,7 @@
   
 ### ⚡Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,python,figma,vscode,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,python,mysql,cypress,figma,vscode,git&theme=dark" />
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
