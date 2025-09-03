@@ -3,8 +3,9 @@
 
 ### ✨ Sobre mim 
 
-- Explorando novas tecnologias e desenvolvendo soluções de software.
-- Estudando **Análise e Desenvolvimento de Sistemas** na <a href="http://fatecsjc-prd.azurewebsites.net/">Fatec SJC</a>.
+- **Análise e Desenvolvimento de Sistemas** na <a href="http://fatecsjc-prd.azurewebsites.net/">Fatec SJC</a>.
+- Experiência em Quality Assurance (QA), testes manuais e automação.
+- Explorando novas tecnologias, desenvolvendo soluções de software e aprimorando minhas habilidades em qualidade de software.
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliagonzalezmoreira&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
